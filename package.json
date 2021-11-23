@@ -1,0 +1,22 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assertEqual.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjoy-kumar/lotide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjoy-kumar/lotide/issues"
+  },
+  "homepage": "https://github.com/sanjoy-kumar/lotide#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
